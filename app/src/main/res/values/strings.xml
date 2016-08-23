@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="texto_peso">Peso</string>
+    <string name="texo_altura">Altura</string>
+
+    <string name="texto_hpeso">EJ:70.5</string>
+    <string name="texo_haltura">EJ: 1.60</string>
+
+    <string name="boton_calcular">Calcular IMC</string>
+    <string name="texto_IMC">Su IMC es:</string>
+    <string name="texto_valor_IMC">0</string>
+</resources>
